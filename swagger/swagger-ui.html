@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>swagger-ui</title>
+  <link rel="stylesheet" href="./swagger-ui-dist/swagger-ui.css">
+</head>
+<body>
+  <div id="sui"></div>
+  <script src="./swagger-ui-dist/swagger-ui-bundle.js"></script>
+  <script src="./swagger-ui-dist/swagger-ui-standalone-preset.js"></script>
+  <script>
+    var s = new URLSearchParams(location.search)
+    SwaggerUIBundle({
+      url: s.get('url'),
+      dom_id: '#sui'
+    })
+  </script>
+</body>
+</html>
