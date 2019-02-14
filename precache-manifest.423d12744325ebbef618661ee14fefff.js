@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "3b6963fedc19673e8cea",
+    "revision": "18ea2e905d87c6a56e61",
     "url": "/css/register.8ef2b0a8.css"
   },
   {
-    "revision": "d6a0ecfc922cfc5214bf92ed2bd1be99",
+    "revision": "2bd4ac7d582d77456923cc765efb155a",
     "url": "/index.html"
   },
   {
@@ -12,44 +12,44 @@ self.__precacheManifest = [
     "url": "/typescript.worker.js"
   },
   {
-    "revision": "7aa1638e8b2f2089e5b6",
-    "url": "/js/apidoc-id-legacy.a280082a.js"
+    "revision": "77705d6a4d82ba85e5a7",
+    "url": "/js/apidoc-id-legacy.f57a8cc2.js"
   },
   {
     "revision": "0f1d481672c079ac7d303a81b943924c",
     "url": "/json.worker.js"
   },
   {
-    "revision": "e4d1fa2f90bd20baf50a",
-    "url": "/js/apidoc-index-legacy.2ea59048.js"
+    "revision": "06c3e296d63dc948268c",
+    "url": "/js/apidoc-index-legacy.dbd25a5d.js"
   },
   {
-    "revision": "f6a9d0d753e3c51007be",
-    "url": "/js/video-player-legacy.0c42e2d3.js"
+    "revision": "f3818a35300abc2f04ae",
+    "url": "/js/video-player-legacy.e465cb05.js"
   },
   {
-    "revision": "2a1c2b7ad1f8ff09ccdd",
-    "url": "/js/apidoc-index~editor-index~explorer-index~json-index~special-index~svn-index~terminal-index-legacy.17dcb239.js"
+    "revision": "5b678b5ec980ab1fe1a3",
+    "url": "/js/apidoc-index~editor-index~explorer-index~json-index~special-index~svn-index~terminal-index-legacy.05f51288.js"
   },
   {
-    "revision": "c39dd9806bb76f836e51",
-    "url": "/js/video-index-legacy.782f1376.js"
+    "revision": "1cebb819e7169cdc6006",
+    "url": "/js/video-index-legacy.87b5eef2.js"
   },
   {
-    "revision": "aa11a4179ced2c246d9d",
-    "url": "/js/apidoc-md-legacy.a14fe357.js"
+    "revision": "f92be6f7ec784e61b8e7",
+    "url": "/js/apidoc-md-legacy.ae51d5b0.js"
   },
   {
     "revision": "c93b811ee9f43d6b1b60",
     "url": "/js/apidoc-md~test-index-legacy.a5324da0.js"
   },
   {
-    "revision": "e4ef08c6635824328799",
-    "url": "/js/test-index-legacy.8096138f.js"
+    "revision": "f0dc32b0e5f96181eda7",
+    "url": "/js/test-index-legacy.d03b2f91.js"
   },
   {
-    "revision": "45bf77b09e9c05f88097",
-    "url": "/js/app-legacy.89e8a125.js"
+    "revision": "c137048c74309455a409",
+    "url": "/js/app-legacy.55e2d9e8.js"
   },
   {
     "revision": "0ac44fb285301128b5ac",
@@ -268,99 +268,99 @@ self.__precacheManifest = [
     "url": "/js/chunk-7532b3ea-legacy.d6aa1a5e.js"
   },
   {
-    "revision": "6539373545dd4e320605",
-    "url": "/js/terminal-index-legacy.a59bd9e8.js"
+    "revision": "44083996b61347a257e6",
+    "url": "/js/terminal-index-legacy.02b32293.js"
   },
   {
-    "revision": "8cef7871a40d744385cc",
-    "url": "/js/chunk-vendors-legacy.72016fd9.js"
+    "revision": "2423f338154ea55aab2c",
+    "url": "/js/chunk-vendors-legacy.a82826ed.js"
   },
   {
-    "revision": "d916e25536389fbba3b9",
-    "url": "/js/terminal-id-legacy.08f0e0b8.js"
+    "revision": "de4849453f7c37f94c5c",
+    "url": "/js/terminal-id-legacy.b7be96a9.js"
   },
   {
-    "revision": "0b6a42e78bb8656918ec",
-    "url": "/js/editor-id-legacy.d4e936f2.js"
+    "revision": "20c3aa4bd478934a8e49",
+    "url": "/js/editor-id-legacy.2e86bf4f.js"
   },
   {
-    "revision": "10468d6c7d2a463dacad",
-    "url": "/js/svn-index-legacy.23558091.js"
+    "revision": "816a0d5c16ea77b9c33e",
+    "url": "/js/svn-index-legacy.31f389c2.js"
   },
   {
-    "revision": "8d0e6a8b3e928357ae31",
-    "url": "/js/editor-index-legacy.616f0fef.js"
+    "revision": "97337987ea567d6e69c6",
+    "url": "/js/editor-index-legacy.4638c0b4.js"
   },
   {
-    "revision": "58454175cfaa286fde44",
-    "url": "/js/svn-id-legacy.d1d6f727.js"
+    "revision": "ca34f0ad4559c6694c9e",
+    "url": "/js/svn-id-legacy.84a89ca8.js"
   },
   {
-    "revision": "14cb2a27b1b30c967bdf",
-    "url": "/js/explorer-id-legacy.4bc40f2b.js"
+    "revision": "bcf5f04eda05425adeba",
+    "url": "/js/explorer-id-legacy.87e9c290.js"
   },
   {
-    "revision": "03480556de0210efb7b9",
-    "url": "/js/special-index-legacy.9b7f4b04.js"
+    "revision": "945dfcb1272d95234a80",
+    "url": "/js/special-index-legacy.82c580ff.js"
   },
   {
-    "revision": "2828be08b8ab2c338ab4",
-    "url": "/js/explorer-index-legacy.241302af.js"
+    "revision": "ad4e951482757d3e768b",
+    "url": "/js/explorer-index-legacy.dab99e04.js"
   },
   {
-    "revision": "266b58c6fa7f673c6411",
-    "url": "/js/special-id-legacy.81ea1384.js"
+    "revision": "d011ef782ea4de5016c3",
+    "url": "/js/special-id-legacy.58133eb2.js"
   },
   {
-    "revision": "3317dde51b9c82e0c6c7",
-    "url": "/js/fe-legacy.6724dbf6.js"
+    "revision": "b2df99cda977185febee",
+    "url": "/js/fe-legacy.37b449a3.js"
   },
   {
-    "revision": "3b6963fedc19673e8cea",
-    "url": "/js/register-legacy.96dd7bb8.js"
+    "revision": "18ea2e905d87c6a56e61",
+    "url": "/js/register-legacy.e301380c.js"
   },
   {
-    "revision": "6ee62de91fa6fe8cd19a",
-    "url": "/js/file-edit-legacy.11e9792e.js"
+    "revision": "4d6f6877de90d06b5e5e",
+    "url": "/js/file-edit-legacy.c7cd8a23.js"
   },
   {
-    "revision": "dbe5e0bd5485ec602126",
-    "url": "/js/index-legacy.0cab8aef.js"
+    "revision": "f44581089c98dc0a587c",
+    "url": "/js/index-legacy.a4ec0338.js"
   },
   {
-    "revision": "6114def6aa2b6a5f4110",
-    "url": "/js/apidoc-edit-legacy.ee71275c.js"
+    "revision": "39e4ce31ccdfeaa9f03e",
+    "url": "/js/apidoc-edit-legacy.7d73fc6b.js"
   },
   {
-    "revision": "f541f25070212e4f928f",
-    "url": "/js/json-id-legacy.85d81914.js"
+    "revision": "3fcfe0707e958738adea",
+    "url": "/js/json-id-legacy.c3014e14.js"
   },
   {
-    "revision": "6ca5fc674f902f147e36",
-    "url": "/js/music-mv-legacy.9aa9a5a2.js"
+    "revision": "59b64c7ace025fae5e75",
+    "url": "/js/music-mv-legacy.0843033f.js"
   },
   {
-    "revision": "823e7112a56c42f37dd1",
-    "url": "/js/json-index-legacy.605ebb7b.js"
+    "revision": "d0bc3e02cd798d915c87",
+    "url": "/js/json-index-legacy.3fd00c42.js"
   },
   {
-    "revision": "61dc1a77174f20de0dbc",
-    "url": "/js/music-index-legacy.7d5c69c8.js"
+    "revision": "5d1ccf1c84d35fe03bf0",
+    "url": "/js/music-index-legacy.ea37af89.js"
   },
   {
-    "revision": "f8a93444c03226d4f8c9",
-    "url": "/js/login-legacy.480576e5.js"
+    "revision": "fd7c0297dbad5f27c548",
+    "url": "/js/login-legacy.e1d386e5.js"
   },
   {
-    "revision": "9af2dbbe81d56f4f1bce",
-    "url": "/js/music-id-legacy.3e763faa.js"
+    "revision": "be36c143fe5196a6ff26",
+    "url": "/js/music-id-legacy.c15c4341.js"
   },
   {
     "revision": "ec3e4a5540df883fa3147f8a5e83287b",
     "url": "/fonts/KaTeX_Script-Regular.ec3e4a55.woff2"
   },
   {
-    "revision": "9af2dbbe81d56f4f1bce",
+    "revision": "be36c143fe5196a6ff26",
     "url": "/css/music-id.020a9e7c.css"
   },
   {
@@ -368,7 +368,7 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.55242ea5.ttf"
   },
   {
-    "revision": "6ca5fc674f902f147e36",
+    "revision": "59b64c7ace025fae5e75",
     "url": "/css/music-mv.7871a498.css"
   },
   {
@@ -384,7 +384,7 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.8a9a261c.woff2"
   },
   {
-    "revision": "266b58c6fa7f673c6411",
+    "revision": "d011ef782ea4de5016c3",
     "url": "/css/special-id.04ad2fbc.css"
   },
   {
@@ -392,7 +392,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Main-Regular.424335d9.ttf"
   },
   {
-    "revision": "03480556de0210efb7b9",
+    "revision": "945dfcb1272d95234a80",
     "url": "/css/special-index.75eee310.css"
   },
   {
@@ -400,7 +400,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_AMS-Regular.dffd527d.ttf"
   },
   {
-    "revision": "58454175cfaa286fde44",
+    "revision": "ca34f0ad4559c6694c9e",
     "url": "/css/svn-id.fe887b05.css"
   },
   {
@@ -408,7 +408,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Main-Bold.e493181d.ttf"
   },
   {
-    "revision": "10468d6c7d2a463dacad",
+    "revision": "816a0d5c16ea77b9c33e",
     "url": "/css/svn-index.ff20dd7f.css"
   },
   {
@@ -416,7 +416,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Math-Italic.5d2baf75.ttf"
   },
   {
-    "revision": "d916e25536389fbba3b9",
+    "revision": "de4849453f7c37f94c5c",
     "url": "/css/terminal-id.bf357ab4.css"
   },
   {
@@ -424,7 +424,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Main-Italic.162d5753.ttf"
   },
   {
-    "revision": "6539373545dd4e320605",
+    "revision": "44083996b61347a257e6",
     "url": "/css/terminal-index.8ecdf2f4.css"
   },
   {
@@ -432,7 +432,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Main-BoldItalic.a879e3a8.ttf"
   },
   {
-    "revision": "e4ef08c6635824328799",
+    "revision": "f0dc32b0e5f96181eda7",
     "url": "/css/test-index.1c19f9ac.css"
   },
   {
@@ -440,7 +440,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Typewriter-Regular.dbf31d0e.ttf"
   },
   {
-    "revision": "c39dd9806bb76f836e51",
+    "revision": "1cebb819e7169cdc6006",
     "url": "/css/video-index.558b1457.css"
   },
   {
@@ -448,7 +448,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_SansSerif-Bold.4c2a414a.ttf"
   },
   {
-    "revision": "f6a9d0d753e3c51007be",
+    "revision": "f3818a35300abc2f04ae",
     "url": "/css/video-player.42f7a6bd.css"
   },
   {
@@ -496,20 +496,24 @@ self.__precacheManifest = [
     "url": "/img/materialdesignicons-webfont.b65a7ff4.svg"
   },
   {
+    "revision": "2870a8f86e7ba49b457e662b17c4bc20",
+    "url": "/fonts/KaTeX_Size1-Regular.2870a8f8.woff2"
+  },
+  {
     "revision": "df2ac4dc4060253c264b85384ec0e2f3",
     "url": "/fonts/KaTeX_Size1-Regular.df2ac4dc.woff"
   },
   {
-    "revision": "2870a8f86e7ba49b457e662b17c4bc20",
-    "url": "/fonts/KaTeX_Size1-Regular.2870a8f8.woff2"
+    "revision": "aec9a6799841d00923821060d396dad1",
+    "url": "/fonts/KaTeX_Size2-Regular.aec9a679.woff"
   },
   {
     "revision": "6dbdad7ae27338101bfd05c181891588",
     "url": "/fonts/KaTeX_Size2-Regular.6dbdad7a.woff2"
   },
   {
-    "revision": "aec9a6799841d00923821060d396dad1",
-    "url": "/fonts/KaTeX_Size2-Regular.aec9a679.woff"
+    "revision": "ecd52e1e2f0cc1b6d4d8d29db4c792c9",
+    "url": "/fonts/KaTeX_Size4-Regular.ecd52e1e.woff2"
   },
   {
     "revision": "f1a090a4c1a36d1d3b1fdc6736db8748",
@@ -520,16 +524,12 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Size4-Regular.15710038.woff"
   },
   {
-    "revision": "ecd52e1e2f0cc1b6d4d8d29db4c792c9",
-    "url": "/fonts/KaTeX_Size4-Regular.ecd52e1e.woff2"
+    "revision": "42a984df9caeef0f96fa6234a41ff1a3",
+    "url": "/fonts/KaTeX_Caligraphic-Bold.42a984df.woff2"
   },
   {
     "revision": "fe8c221065dcbfe529cd2d201bf6baa6",
     "url": "/fonts/KaTeX_Caligraphic-Bold.fe8c2210.woff"
-  },
-  {
-    "revision": "42a984df9caeef0f96fa6234a41ff1a3",
-    "url": "/fonts/KaTeX_Caligraphic-Bold.42a984df.woff2"
   },
   {
     "revision": "7f4bec7c908e337d660adcdf9a6abbe7",
@@ -552,7 +552,7 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_SansSerif-Regular.fd6852d4.woff2"
   },
   {
-    "revision": "61dc1a77174f20de0dbc",
+    "revision": "5d1ccf1c84d35fe03bf0",
     "url": "/css/music-index.b3066b47.css"
   },
   {
@@ -564,10 +564,6 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Size1-Regular.923e515d.ttf"
   },
   {
-    "revision": "ae9ca32213bdef3d2b7006c743ffdb8a",
-    "url": "/fonts/KaTeX_Size3-Regular.ae9ca322.ttf"
-  },
-  {
     "revision": "e3717988fb1ebd63efd10fd2e05568bc",
     "url": "/fonts/KaTeX_Size2-Regular.e3717988.ttf"
   },
@@ -576,24 +572,28 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Size4-Regular.b790cf18.ttf"
   },
   {
-    "revision": "c7e386dd35c841d1a8f9e11fd1a11010",
-    "url": "/fonts/KaTeX_Caligraphic-Bold.c7e386dd.ttf"
+    "revision": "ae9ca32213bdef3d2b7006c743ffdb8a",
+    "url": "/fonts/KaTeX_Size3-Regular.ae9ca322.ttf"
   },
   {
-    "revision": "8c43064fdc3bf45ee62e8a22e856a793",
-    "url": "/fonts/KaTeX_Fraktur-Bold.8c43064f.woff"
+    "revision": "c7e386dd35c841d1a8f9e11fd1a11010",
+    "url": "/fonts/KaTeX_Caligraphic-Bold.c7e386dd.ttf"
   },
   {
     "revision": "d04d48408d923e5bb6883a514481b7d8",
     "url": "/fonts/KaTeX_Caligraphic-Regular.d04d4840.ttf"
   },
   {
-    "revision": "e21a6db7f372856ebfd6a278b56b8c7d",
-    "url": "/fonts/KaTeX_Fraktur-Regular.e21a6db7.woff2"
-  },
-  {
     "revision": "b1a879453aae1660b06d5941c50457c5",
     "url": "/fonts/KaTeX_Fraktur-Bold.b1a87945.woff2"
+  },
+  {
+    "revision": "8c43064fdc3bf45ee62e8a22e856a793",
+    "url": "/fonts/KaTeX_Fraktur-Bold.8c43064f.woff"
+  },
+  {
+    "revision": "e21a6db7f372856ebfd6a278b56b8c7d",
+    "url": "/fonts/KaTeX_Fraktur-Regular.e21a6db7.woff2"
   },
   {
     "revision": "801690bb2f2a87a0e536da498ea4709c",
@@ -612,16 +612,16 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Math-BoldItalic.96b22978.woff2"
   },
   {
-    "revision": "4b3b168e2b5e74b24c10acd7316488d1",
-    "url": "/fonts/KaTeX_Math-Italic.4b3b168e.woff2"
-  },
-  {
     "revision": "6091397cdc326cf8c8f7b648e2341483",
     "url": "/fonts/KaTeX_Math-BoldItalic.6091397c.woff"
   },
   {
     "revision": "dc91856176c1350f1ee303851a422277",
     "url": "/fonts/KaTeX_Math-Italic.dc918561.woff"
+  },
+  {
+    "revision": "4b3b168e2b5e74b24c10acd7316488d1",
+    "url": "/fonts/KaTeX_Math-Italic.4b3b168e.woff2"
   },
   {
     "revision": "e08eb4331e7db133b6d2e355cd74724a",
@@ -660,12 +660,12 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_SansSerif-Italic.66bab6ba.ttf"
   },
   {
-    "revision": "85007a59906b95d94b5b06619fde46aa",
-    "url": "/fonts/KaTeX_Script-Regular.85007a59.ttf"
-  },
-  {
     "revision": "066914d0bdc0607d66621bfefcac72bc",
     "url": "/fonts/KaTeX_SansSerif-Regular.066914d0.ttf"
+  },
+  {
+    "revision": "85007a59906b95d94b5b06619fde46aa",
+    "url": "/fonts/KaTeX_Script-Regular.85007a59.ttf"
   },
   {
     "revision": "b2d929640f68a1bd67eff3ebd331159a",
@@ -684,67 +684,67 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Fraktur-Regular.576266ad.ttf"
   },
   {
-    "revision": "8d0e6a8b3e928357ae31",
+    "revision": "97337987ea567d6e69c6",
     "url": "/css/editor-index.1553a143.css"
   },
   {
-    "revision": "7aa1638e8b2f2089e5b6",
+    "revision": "77705d6a4d82ba85e5a7",
     "url": "/css/apidoc-id.77d4bfb7.css"
   },
   {
-    "revision": "e4d1fa2f90bd20baf50a",
+    "revision": "06c3e296d63dc948268c",
     "url": "/css/apidoc-index.4ec57c0b.css"
   },
   {
-    "revision": "2a1c2b7ad1f8ff09ccdd",
+    "revision": "5b678b5ec980ab1fe1a3",
     "url": "/css/apidoc-index~editor-index~explorer-index~json-index~special-index~svn-index~terminal-index.d580e7c8.css"
   },
   {
-    "revision": "aa11a4179ced2c246d9d",
+    "revision": "f92be6f7ec784e61b8e7",
     "url": "/css/apidoc-md.71c9d9e6.css"
   },
   {
-    "revision": "45bf77b09e9c05f88097",
-    "url": "/css/app.3716d0e6.css"
+    "revision": "c137048c74309455a409",
+    "url": "/css/app.15365552.css"
   },
   {
-    "revision": "8cef7871a40d744385cc",
+    "revision": "2423f338154ea55aab2c",
     "url": "/css/chunk-vendors.585fc772.css"
   },
   {
-    "revision": "0b6a42e78bb8656918ec",
+    "revision": "20c3aa4bd478934a8e49",
     "url": "/css/editor-id.c89d9381.css"
   },
   {
-    "revision": "f8a93444c03226d4f8c9",
+    "revision": "fd7c0297dbad5f27c548",
     "url": "/css/login.65a9b8ef.css"
   },
   {
-    "revision": "14cb2a27b1b30c967bdf",
+    "revision": "bcf5f04eda05425adeba",
     "url": "/css/explorer-id.eec16acd.css"
   },
   {
-    "revision": "2828be08b8ab2c338ab4",
+    "revision": "ad4e951482757d3e768b",
     "url": "/css/explorer-index.9b156318.css"
   },
   {
-    "revision": "3317dde51b9c82e0c6c7",
+    "revision": "b2df99cda977185febee",
     "url": "/css/fe.16a0fe1e.css"
   },
   {
-    "revision": "6ee62de91fa6fe8cd19a",
+    "revision": "4d6f6877de90d06b5e5e",
     "url": "/css/file-edit.f7a066e9.css"
   },
   {
-    "revision": "f541f25070212e4f928f",
+    "revision": "3fcfe0707e958738adea",
     "url": "/css/json-id.263b5187.css"
   },
   {
-    "revision": "823e7112a56c42f37dd1",
+    "revision": "d0bc3e02cd798d915c87",
     "url": "/css/json-index.f2a652d7.css"
   },
   {
-    "revision": "6114def6aa2b6a5f4110",
+    "revision": "39e4ce31ccdfeaa9f03e",
     "url": "/css/apidoc-edit.825d7eeb.css"
   },
   {
