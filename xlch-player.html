@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>音乐播放器-ody小站</title>
+  <style>
+    html,
+    body {
+      height: 100%;
+    }
+
+    body {
+      margin: 0;
+      background: url(http://acg.bakayun.cn/randbg.php) center center no-repeat;
+      overflow: hidden;
+    }
+
+    .wrap {
+      text-align: center;
+      padding-top: 5em;
+    }
+
+    #text {
+      background: rgba(255, 255, 255, .5);
+      display: inline-block;
+      padding: .5em;
+      transition: background .3s;
+      color: #9c27b0;
+      border-radius: 5px;
+    }
+    #text:hover {
+      background: #fff;
+    }
+  </style>
+  <script>var _hmt = _hmt || [];</script><script src=https://hm.baidu.com/hm.js?db2e64ed3ad291a2b86cc1e364eb8526></script>
+</head>
+
+<body>
+  <div class="wrap">
+    <span id="text"></span>
+  </div>
+  <!-- Your XlchPlayerKey -->
+  <script>var XlchKey="KV84oOfFcq";</script>
+  <!-- font-awesome 4.2.0 -->
+  <link href="http://lib.baomitu.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <!-- JQuery 2.2.4 -->
+  <script src="http://lib.baomitu.com/jquery/2.2.4/jquery.min.js"></script>
+  <!-- JQuery-mousewheel 3.1.9 -->
+  <script src="http://lib.baomitu.com/jquery-mousewheel/3.1.9/jquery.mousewheel.min.js"></script>
+  <!-- Scrollbar -->
+  <script src="http://static.badapple.top/BadApplePlayer/js/scrollbar.js"></script>
+  <!-- BadApplePlayer -->
+  <script src="http://static.badapple.top/BadApplePlayer/Player.js"></script>
+  <script>
+    $.get('https://api.imjad.cn/hitokoto/').then(function (data) {
+      $('#text').text(data)
+    })
+  </script>
+</body>
+
+</html>
