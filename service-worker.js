@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6215aacb91b17a837d13f370ff38f177.js"
+  "/precache-manifest.e8b403996a85fa9ef858f21beec0cb5a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fe-tool"});
