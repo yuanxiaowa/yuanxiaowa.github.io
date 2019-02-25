@@ -1,0 +1,6 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["login"],{"8eea":function(e,t){},dd7b:function(e,t,a){"use strict";a.r(t);var r=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("v-container",{attrs:{"fill-height":""}},[a("v-layout",{attrs:{"align-center":"","justify-center":""}},[a("v-flex",{attrs:{xs12:"",sm8:"",md4:""}},[a("x-form",{attrs:{schema:e.schema,"submit-handler":e.submit,"confirm-text":"登录","has-cancel":!1}})],1)],1)],1)},s=[],i=a("9ab4"),n=a("60a3"),o=a("9530"),u=a.n(o),l=a("4bb5");let c=class extends n["d"]{constructor(){super(...arguments),this.schema={type:"object",properties:{username:{type:"string",title:"用户名"},password:{type:"string",format:"password",title:"密码"}},required:["username","password"]}}async submit(e){var t=await this.$apollo.mutate({mutation:u.a`mutation($item: UserInfoInput!){
+        login(item:$item) {
+          username
+          role
+        }
+      }`,variables:{item:e}}),a=t.data.login,r=a.username,s=a.role;this.updateUserName(r),this.setRole(s),this.$router.replace(this.$route.query.redirect_url||"/")}};i["b"]([l["a"]],c.prototype,"setRole",void 0),i["b"]([l["c"]],c.prototype,"updateUserName",void 0),c=i["b"]([Object(n["a"])({})],c);var m=c,p=m,d=a("2877"),b=a("8eea"),h=a.n(b),f=Object(d["a"])(p,r,s,!1,null,null,null);"function"===typeof h.a&&h()(f);t["default"]=f.exports}}]);
